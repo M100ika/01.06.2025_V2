@@ -1,0 +1,34 @@
+PLINK v1.9.0-b.7.7 64-bit (22 Oct 2024)
+Options in effect:
+  --file ../3.1-zapusk/3-zapusk
+  --make-bed
+  --out ../3.1-zapusk/3-zapusk_binary
+
+Hostname: maxat-HP-ZBook-15v-G5
+Working directory: /home/esp/data_analyze/14.04.2025/data/plink_1.9
+Start time: Mon Apr 14 23:43:43 2025
+
+Random number seed: 1744656223
+15846 MB RAM detected; reserving 7923 MB for main workspace.
+Scanning .ped file... done.
+Performing single-pass .bed write (253702 variants, 72 people).
+--file: ../3.1-zapusk/3-zapusk_binary-temporary.bed +
+../3.1-zapusk/3-zapusk_binary-temporary.bim +
+../3.1-zapusk/3-zapusk_binary-temporary.fam written.
+253702 variants loaded from .bim file.
+72 people (19 males, 52 females, 1 ambiguous) loaded from .fam.
+Ambiguous sex ID written to ../3.1-zapusk/3-zapusk_binary.nosex .
+Using 1 thread (no multithreaded calculations invoked).
+Before main variant filters, 72 founders and 0 nonfounders present.
+Calculating allele frequencies... done.
+Warning: 617 het. haploid genotypes present (see
+../3.1-zapusk/3-zapusk_binary.hh ); many commands treat these as missing.
+Warning: Nonmissing nonmale Y chromosome genotype(s) present; many commands
+treat these as missing.
+Total genotyping rate is 0.996263.
+253702 variants and 72 people pass filters and QC.
+Note: No phenotypes present.
+--make-bed to ../3.1-zapusk/3-zapusk_binary.bed +
+../3.1-zapusk/3-zapusk_binary.bim + ../3.1-zapusk/3-zapusk_binary.fam ... done.
+
+End time: Mon Apr 14 23:43:44 2025

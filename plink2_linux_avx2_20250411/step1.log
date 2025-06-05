@@ -1,0 +1,18 @@
+PLINK v2.0.0-a.6.10LM AVX2 Intel (11 Apr 2025)
+Options in effect:
+  --file /home/esp/data_analyze/14.04.2025/data/drive-download-20250414T114154Z-001
+  --geno 0.1
+  --make-bed
+  --mind 0.1
+  --out step1
+
+Hostname: maxat-HP-ZBook-15v-G5
+Working directory: /home/esp/data_analyze/14.04.2025/plink2_linux_avx2_20250411
+Start time: Mon Apr 14 16:46:00 2025
+
+Error: --file has been retired.
+Continued use of the .ped + .map fileset format is strongly discouraged.  Use
+--pedmap to convert to a more appropriate format.
+For more info, try "plink2 --help <flag name>" or "plink2 --help | more".
+
+End time: Mon Apr 14 16:46:00 2025

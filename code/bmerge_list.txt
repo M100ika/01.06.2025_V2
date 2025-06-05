@@ -1,0 +1,3 @@
+/home/esp/data_analyze/01.06.2025_v2/code/../data/init/2-zapusk/2-zapusk_binary
+/home/esp/data_analyze/01.06.2025_v2/code/../data/init/3.1-zapusk/3-zapusk_binary
+/home/esp/data_analyze/01.06.2025_v2/code/../data/init/3.2-zapusk/13-sample_binary

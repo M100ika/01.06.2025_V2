@@ -1,0 +1,29 @@
+PLINK v2.0.0-a.6.10LM AVX2 Intel (11 Apr 2025)
+Options in effect:
+  --bfile /home/esp/data_analyze/01.06.2025_v2/code/../data/output/first_step/merged_all_bed
+  --make-pgen
+  --out /home/esp/data_analyze/01.06.2025_v2/code/../data/output/first_step/merged_all
+
+Hostname: maxat-HP-ZBook-15v-G5
+Working directory: /home/esp/data_analyze/01.06.2025_v2/code
+Start time: Wed Jun  4 01:09:05 2025
+
+Random number seed: 1748981345
+15846 MiB RAM detected, ~6781 available; reserving 6717 MiB for main workspace.
+Using up to 12 threads (change this with --threads).
+288 samples (199 females, 75 males, 14 ambiguous; 288 founders) loaded from
+/home/esp/data_analyze/01.06.2025_v2/code/../data/output/first_step/merged_all_bed.fam.
+253702 variants loaded from
+/home/esp/data_analyze/01.06.2025_v2/code/../data/output/first_step/merged_all_bed.bim.
+1 binary phenotype loaded (142 cases, 146 controls).
+Writing
+/home/esp/data_analyze/01.06.2025_v2/code/../data/output/first_step/merged_all.psam
+... done.
+Writing
+/home/esp/data_analyze/01.06.2025_v2/code/../data/output/first_step/merged_all.pvar
+... done.
+Writing
+/home/esp/data_analyze/01.06.2025_v2/code/../data/output/first_step/merged_all.pgen
+... done.
+
+End time: Wed Jun  4 01:09:05 2025

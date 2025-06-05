@@ -1,0 +1,11 @@
+rsID,Chr,Position,Gene,SNP Class,Global MAF,Alleles,Function Class
+rs6656401,1,1:207518704,CR1,snv,—,D,intron_variant
+rs3818361,1,1:207611623,CR1,snv,—,N,intron_variant
+rs11771145,7,7:143413669,EPHA1-AS1,snv,—,D,intron_variant
+rs2279590,8,8:27598736,CLU,snv,—,N,intron_variant
+rs11136000,8,8:27607002,CLU,snv,—,H,intron_variant
+rs9331888,8,8:27611345,CLU,snv,—,S,"upstream_transcript_variant,2KB_upstream_variant,intron_variant,non_coding_transcript_variant"
+rs3851179,11,11:86157598,—,snv,—,N,
+rs405509,19,19:44905579,APOE,snv,—,N,"upstream_transcript_variant,2KB_upstream_variant"
+rs429358,19,19:44908684,APOE,snv,—,Y,"missense_variant,coding_sequence_variant"
+rs7412,19,19:44908822,APOE,snv,—,Y,"missense_variant,coding_sequence_variant"
